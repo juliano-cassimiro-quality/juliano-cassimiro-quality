@@ -7,8 +7,6 @@
   Trabalho com <strong>testes manuais e automatizados</strong> usando <strong>Cypress</strong>, seguindo metodologias ágeis como <strong>Scrum</strong> e <strong>Kanban</strong>. Tenho experiência prática com a <strong>plataforma VTEX</strong>, documentação de requisitos e reporte de bugs.
 </p>
 
----
-
 ## 🧪 Sobre mim
 
 - QA no projeto Electrolux LATAM (Shopclub, D2S-B2B)  
@@ -17,9 +15,6 @@
 - Estudante de Desenvolvimento de Software Multiplataforma (FATEC)  
 - Técnico em Desenvolvimento de Sistemas (ETEC)  
 - Foco em CI/CD, automação e qualidade contínua  
-- [LinkedIn](https://www.linkedin.com/in/sntooosk) • [GitHub](https://github.com/sntooosk)
-
----
 
 ## ⭐ GitHub Stats
 
@@ -36,8 +31,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sntooosk/sntooosk/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
 ## 💻 Tecnologias e Ferramentas
 
 ### 🧪 Testes & QA  
@@ -49,7 +42,6 @@
 ### 🛠️ Outras ferramentas  
 [![My Skills](https://skillicons.dev/icons?i=figma,jira&theme=dark)](https://skillicons.dev)
 
----
 
 ## 📫 Contato
 
