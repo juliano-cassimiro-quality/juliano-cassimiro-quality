@@ -7,16 +7,12 @@
   Trabalho com <strong>testes manuais e automatizados</strong> usando <strong>Cypress</strong>, seguindo metodologias ágeis como <strong>Scrum</strong> e <strong>Kanban</strong>. Tenho experiência prática com a <strong>plataforma VTEX</strong>, documentação de requisitos e reporte de bugs.
 </p>
 
-## 🧪 Sobre mim
-
-- QA no projeto Electrolux LATAM (Shopclub, D2S-B2B)  
-- Testes automatizados com Cypress + Gherkin  
-- Documentação e registro de não conformidades  
+## Sobre mim
+  
 - Estudante de Desenvolvimento de Software Multiplataforma (FATEC)  
 - Técnico em Desenvolvimento de Sistemas (ETEC)  
-- Foco em CI/CD, automação e qualidade contínua  
 
-## ⭐ GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/sntooosk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sntooosk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -31,19 +27,19 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sntooosk/sntooosk/output/pacman-contribution-graph.svg">
 </picture>
 
-## 💻 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
-### 🧪 Testes & QA  
+### Testes & QA  
 [![My Skills](https://skillicons.dev/icons?i=cypress,postman,git,github&theme=dark)](https://skillicons.dev)
 
-### 💻 Dev Tools  
+### Dev Tools  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,nodejs,vscode&theme=dark)](https://skillicons.dev)
 
-### 🛠️ Outras ferramentas  
+### Outras ferramentas  
 [![My Skills](https://skillicons.dev/icons?i=figma,jira&theme=dark)](https://skillicons.dev)
 
 
-## 📫 Contato
+## Contato
 
 <p align="left">
   <a href="mailto:juliano.santos88@icloud.com" title="iCloud">
