@@ -8,9 +8,7 @@
   Realizo a escrita e execução de <strong>testes manuais e automatizados</strong>, utilizando ferramentas como <strong>Cypress</strong>, além de documentar requisitos e registrar não conformidades para apoiar a melhoria contínua. Tenho vivência prática com a <strong>plataforma VTEX</strong>, sempre focando em garantir entregas confiáveis e com valor real para o cliente.
 </p>
 
-
 ---
-
 ## Sobre mim
 
 - 🧪 QA alocado no projeto Electrolux LATAM (Shopclub, D2S-B2B) pela Quality Digital  
@@ -35,6 +33,13 @@
 </a>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sntooosk/sntooosk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sntooosk/sntooosk/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sntooosk/sntooosk/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 ## 💻 Tecnologias e Ferramentas
 
@@ -44,7 +49,7 @@
 
 ### 💻 Dev Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,nodejs,vscode&theme=dark)](https://skillicons.dev)
 
 ### 🛠️ Outras ferramentas
 
