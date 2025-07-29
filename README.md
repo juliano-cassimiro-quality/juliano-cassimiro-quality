@@ -1,27 +1,23 @@
-# Olá, eu sou o Juliano!
-
+# 💜 Olá, eu sou o Juliano!
 
 <img src="https://raw.githubusercontent.com/sntooosk/sntooosk/refs/heads/main/.github/assets/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 <p align="left">
-  Como Analista de Garantia de Qualidade na <strong>Quality Digital</strong>, atuo no projeto <strong>Electrolux LATAM</strong> (Shopclub, D2S-B2B), contribuindo para a qualidade das entregas por meio de metodologias ágeis como <strong>Scrum</strong> e <strong>Kanban</strong>.<br>
-  Realizo a escrita e execução de <strong>testes manuais e automatizados</strong>, utilizando ferramentas como <strong>Cypress</strong>, além de documentar requisitos e registrar não conformidades para apoiar a melhoria contínua. Tenho vivência prática com a <strong>plataforma VTEX</strong>, sempre focando em garantir entregas confiáveis e com valor real para o cliente.
+  Sou Analista de Garantia de Qualidade na <strong>Quality Digital</strong>, atuando no projeto <strong>Electrolux LATAM</strong> (Shopclub, D2S-B2B).<br>
+  Trabalho com <strong>testes manuais e automatizados</strong> usando <strong>Cypress</strong>, seguindo metodologias ágeis como <strong>Scrum</strong> e <strong>Kanban</strong>. Tenho experiência prática com a <strong>plataforma VTEX</strong>, documentação de requisitos e reporte de bugs.
 </p>
 
 ---
-## Sobre mim
 
-- 🧪 QA alocado no projeto Electrolux LATAM (Shopclub, D2S-B2B) pela Quality Digital  
-- 🛠️ Escrita de cenários em Gherkin e testes automatizados com Cypress  
-- 🧾 Documentação de requisitos e reporte de bugs  
-- 🎓 Estudante de Desenvolvimento de Software Multiplataforma na FATEC Atibaia  
-- 📗 Técnico em Desenvolvimento de Sistemas pela ETEC Prof. Carmine Biagio Tundisi  
-- 🌱 Aprimorando conhecimentos em CI/CD, automação e práticas de qualidade  
-- 📸 Compartilho experiências no [LinkedIn](https://www.linkedin.com/in/sntooosk) e projetos no [GitHub](https://github.com/sntooosk)
+## 🧪 Sobre mim
 
----
-
-
+- QA no projeto Electrolux LATAM (Shopclub, D2S-B2B)  
+- Testes automatizados com Cypress + Gherkin  
+- Documentação e registro de não conformidades  
+- Estudante de Desenvolvimento de Software Multiplataforma (FATEC)  
+- Técnico em Desenvolvimento de Sistemas (ETEC)  
+- Foco em CI/CD, automação e qualidade contínua  
+- [LinkedIn](https://www.linkedin.com/in/sntooosk) • [GitHub](https://github.com/sntooosk)
 
 ---
 
@@ -33,6 +29,7 @@
 </a>
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sntooosk/sntooosk/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sntooosk/sntooosk/output/pacman-contribution-graph.svg">
@@ -43,25 +40,21 @@
 
 ## 💻 Tecnologias e Ferramentas
 
-### 🧪 Testes & QA
-
+### 🧪 Testes & QA  
 [![My Skills](https://skillicons.dev/icons?i=cypress,postman,git,github&theme=dark)](https://skillicons.dev)
 
-### 💻 Dev Tools
-
+### 💻 Dev Tools  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,nodejs,vscode&theme=dark)](https://skillicons.dev)
 
-### 🛠️ Outras ferramentas
-
+### 🛠️ Outras ferramentas  
 [![My Skills](https://skillicons.dev/icons?i=figma,jira&theme=dark)](https://skillicons.dev)
 
 ---
-<p align="left">
-  Contato
-</p>
+
+## 📫 Contato
 
 <p align="left">
-  <a href="mailto:juliano.santos88@icloud.com" title="Gmail">
+  <a href="mailto:juliano.santos88@icloud.com" title="iCloud">
     <img src="https://img.shields.io/badge/-iCloud-3693F3?style=flat-square&logo=icloud&logoColor=white" alt="iCloud"/>
   </a>
   <a href="https://www.linkedin.com/in/sntooosk" title="LinkedIn">
