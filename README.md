@@ -1,4 +1,4 @@
-# 💜 Olá, eu sou o Juliano!
+# Olá, eu sou o Juliano!
 
 <img src="https://raw.githubusercontent.com/sntooosk/sntooosk/refs/heads/main/.github/assets/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
