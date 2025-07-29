@@ -1,7 +1,7 @@
 # Olá, eu sou o Juliano!
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/sntooosk/sntooosk/refs/heads/main/.github/assets/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 <p align="left">
   Como Analista de Garantia de Qualidade na <strong>Quality Digital</strong>, atuo no projeto <strong>Electrolux LATAM</strong> (Shopclub, D2S-B2B), contribuindo para a qualidade das entregas por meio de metodologias ágeis como <strong>Scrum</strong> e <strong>Kanban</strong>.<br>
