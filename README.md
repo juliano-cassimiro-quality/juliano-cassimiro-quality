@@ -1,16 +1,80 @@
-## Hi there 👋
+# Olá, eu sou o Juliano!
 
-<!--
-**sntooosk/sntooosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  Como Analista de Garantia de Qualidade na <strong>Quality Digital</strong>, atuo no projeto <strong>Electrolux LATAM</strong> (Shopclub, D2S-B2B), contribuindo para a qualidade das entregas por meio de metodologias ágeis como <strong>Scrum</strong> e <strong>Kanban</strong>.<br>
+  Realizo a escrita e execução de <strong>testes manuais e automatizados</strong>, utilizando ferramentas como <strong>Cypress</strong>, além de documentar requisitos e registrar não conformidades para apoiar a melhoria contínua. Tenho vivência prática com a <strong>plataforma VTEX</strong>, sempre focando em garantir entregas confiáveis e com valor real para o cliente.
+</p>
+
+
+---
+
+## Sobre mim
+
+- 🧪 QA alocado no projeto Electrolux LATAM (Shopclub, D2S-B2B) pela Quality Digital  
+- 🛠️ Escrita de cenários em Gherkin e testes automatizados com Cypress  
+- 🧾 Documentação de requisitos e reporte de bugs  
+- 🎓 Estudante de Desenvolvimento de Software Multiplataforma na FATEC Atibaia  
+- 📗 Técnico em Desenvolvimento de Sistemas pela ETEC Prof. Carmine Biagio Tundisi  
+- 🌱 Aprimorando conhecimentos em CI/CD, automação e práticas de qualidade  
+- 📸 Compartilho experiências no [LinkedIn](https://www.linkedin.com/in/sntooosk) e projetos no [GitHub](https://github.com/sntooosk)
+
+---
+
+
+
+---
+
+## ⭐ GitHub Stats
+
+<a href="https://github.com/sntooosk">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sntooosk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntooosk&layout=compact&langs_count=6&theme=radical"/>
+</a>
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+### 🧪 Testes & QA
+
+[![My Skills](https://skillicons.dev/icons?i=cypress,postman,git,github&theme=dark)](https://skillicons.dev)
+
+### 💻 Dev Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vscode&theme=dark)](https://skillicons.dev)
+
+### 🛠️ Outras ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=figma,jira&theme=dark)](https://skillicons.dev)
+
+---
+<p align="left">
+  Contato
+</p>
+
+<p align="left">
+  <a href="mailto:juliano.santos88@icloud.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-iCloud-3693F3?style=flat-square&logo=icloud&logoColor=white" alt="iCloud"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sntooosk" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sntooosk" title="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sntooosk.sntooosk&left_color=purple&right_color=blue" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sntooosk&bg_color=0d1117&color=ff6ac1&line=f2f2f2&point=f2f2f2&area=true&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sntooosk&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="156" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sntooosk&theme=radical&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff6ac1,100:001f3f"/>
