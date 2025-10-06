@@ -1,16 +1,3 @@
-# Olá, eu sou o Juliano!
-
-<img src="https://raw.githubusercontent.com/juliano-cassimiro-quality/juliano-cassimiro-quality/refs/heads/main/.github/assets/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
-
-<p align="left">
- Como QA na Quality Digital, atuo no projeto Electrolux LATAM contribuindo para a qualidade de entregas através de metodologias ágeis, como Scrum e Kanban. Realizo escrita e execução de testes manuais e automatizados, documentando requisitos e registrando não conformidades para apoiar a melhoria contínua.
-</p>
-
-## Sobre mim
-  
-- Estudante de Desenvolvimento de Software Multiplataforma (FATEC)  
-- Técnico em Desenvolvimento de Sistemas (ETEC)  
-
 ## GitHub Stats
 
 <a href="https://github.com/juliano-cassimiro-quality">
