@@ -29,7 +29,7 @@
 ## Tecnologias e Ferramentas
 
 ### Testes & QA  
-[![My Skills](https://skillicons.dev/icons?i=cypress,postman,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=appium,cypress,postman,git,github&theme=dark)](https://skillicons.dev)
 
 ### Dev Tools  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,nodejs,vscode&theme=dark)](https://skillicons.dev)
