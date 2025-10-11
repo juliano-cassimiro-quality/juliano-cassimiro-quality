@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="824" height="134" viewBox="0 0 824 134" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    
+  <symbol id="mario8" viewBox="0 0 16 16">
+    <rect x="3" y="1" width="10" height="2"/>
+    <rect x="2" y="2" width="7" height="2"/>
+    <rect x="5" y="4" width="4" height="3"/>
+    <rect x="4" y="7" width="8" height="4"/>
+    <rect x="2" y="7" width="2" height="3"/>
+    <rect x="12" y="7" width="2" height="3"/>
+    <rect x="5" y="11" width="3" height="3"/>
+    <rect x="8" y="11" width="3" height="3"/>
+  </symbol>
+    
+  <symbol id="blockq" viewBox="0 0 16 16">
+    <rect x="0.5" y="0.5" width="15" height="15" stroke-width="1" stroke="currentColor" fill="none"/>
+    <rect x="3" y="3" width="10" height="10" opacity="0.2"/>
+    <rect x="7" y="4" width="2" height="4"/>
+    <rect x="7" y="9" width="2" height="2"/>
+  </symbol>
+    <path id="track" d="M 22 22 L 37 22 L 52 22 L 67 22 L 82 22 L 97 22 L 112 22 L 127 22 L 142 22 L 157 22 L 172 22 L 187 22 L 202 22 L 217 22 L 232 22 L 247 22 L 262 22 L 277 22 L 292 22 L 307 22 L 322 22 L 337 22 L 352 22 L 367 22 L 382 22 L 397 22 L 412 22 L 427 22 L 442 22 L 457 22 L 472 22 L 487 22 L 502 22 L 517 22 L 532 22 L 547 22 L 562 22 L 577 22 L 592 22 L 607 22 L 622 22 L 637 22 L 652 22 L 667 22 L 682 22 L 697 22 L 712 22 L 727 22 L 742 22 L 757 22 L 772 22 L 787 22 L 802 22 L 802 37 L 787 37 L 772 37 L 757 37 L 742 37 L 727 37 L 712 37 L 697 37 L 682 37 L 667 37 L 652 37 L 637 37 L 622 37 L 607 37 L 592 37 L 577 37 L 562 37 L 547 37 L 532 37 L 517 37 L 502 37 L 487 37 L 472 37 L 457 37 L 442 37 L 427 37 L 412 37 L 397 37 L 382 37 L 367 37 L 352 37 L 337 37 L 322 37 L 307 37 L 292 37 L 277 37 L 262 37 L 247 37 L 232 37 L 217 37 L 202 37 L 187 37 L 172 37 L 157 37 L 142 37 L 127 37 L 112 37 L 97 37 L 82 37 L 67 37 L 52 37 L 37 37 L 22 37 L 22 52 L 37 52 L 52 52 L 67 52 L 82 52 L 97 52 L 112 52 L 127 52 L 142 52 L 157 52 L 172 52 L 187 52 L 202 52 L 217 52 L 232 52 L 247 52 L 262 52 L 277 52 L 292 52 L 307 52 L 322 52 L 337 52 L 352 52 L 367 52 L 382 52 L 397 52 L 412 52 L 427 52 L 442 52 L 457 52 L 472 52 L 487 52 L 502 52 L 517 52 L 532 52 L 547 52 L 562 52 L 577 52 L 592 52 L 607 52 L 622 52 L 637 52 L 652 52 L 667 52 L 682 52 L 697 52 L 712 52 L 727 52 L 742 52 L 757 52 L 772 52 L 787 52 L 802 52 L 802 67 L 787 67 L 772 67 L 757 67 L 742 67 L 727 67 L 712 67 L 697 67 L 682 67 L 667 67 L 652 67 L 637 67 L 622 67 L 607 67 L 592 67 L 577 67 L 562 67 L 547 67 L 532 67 L 517 67 L 502 67 L 487 67 L 472 67 L 457 67 L 442 67 L 427 67 L 412 67 L 397 67 L 382 67 L 367 67 L 352 67 L 337 67 L 322 67 L 307 67 L 292 67 L 277 67 L 262 67 L 247 67 L 232 67 L 217 67 L 202 67 L 187 67 L 172 67 L 157 67 L 142 67 L 127 67 L 112 67 L 97 67 L 82 67 L 67 67 L 52 67 L 37 67 L 22 67 L 22 82 L 37 82 L 52 82 L 67 82 L 82 82 L 97 82 L 112 82 L 127 82 L 142 82 L 157 82 L 172 82 L 187 82 L 202 82 L 217 82 L 232 82 L 247 82 L 262 82 L 277 82 L 292 82 L 307 82 L 322 82 L 337 82 L 352 82 L 367 82 L 382 82 L 397 82 L 412 82 L 427 82 L 442 82 L 457 82 L 472 82 L 487 82 L 502 82 L 517 82 L 532 82 L 547 82 L 562 82 L 577 82 L 592 82 L 607 82 L 622 82 L 637 82 L 652 82 L 667 82 L 682 82 L 697 82 L 712 82 L 727 82 L 742 82 L 757 82 L 772 82 L 787 82 L 802 82 L 802 97 L 787 97 L 772 97 L 757 97 L 742 97 L 727 97 L 712 97 L 697 97 L 682 97 L 667 97 L 652 97 L 637 97 L 622 97 L 607 97 L 592 97 L 577 97 L 562 97 L 547 97 L 532 97 L 517 97 L 502 97 L 487 97 L 472 97 L 457 97 L 442 97 L 427 97 L 412 97 L 397 97 L 382 97 L 367 97 L 352 97 L 337 97 L 322 97 L 307 97 L 292 97 L 277 97 L 262 97 L 247 97 L 232 97 L 217 97 L 202 97 L 187 97 L 172 97 L 157 97 L 142 97 L 127 97 L 112 97 L 97 97 L 82 97 L 67 97 L 52 97 L 37 97 L 22 97 L 22 112 L 37 112 L 52 112 L 67 112 L 82 112 L 97 112 L 112 112 L 127 112 L 142 112 L 157 112 L 172 112 L 187 112 L 202 112 L 217 112 L 232 112 L 247 112 L 262 112 L 277 112 L 292 112 L 307 112 L 322 112 L 337 112 L 352 112 L 367 112 L 382 112 L 397 112 L 412 112 L 427 112 L 442 112 L 457 112 L 472 112 L 487 112 L 502 112 L 517 112 L 532 112 L 547 112 L 562 112 L 577 112 L 592 112 L 607 112 L 622 112 L 637 112 L 652 112 L 667 112 L 682 112 L 697 112 L 712 112 L 727 112 L 742 112 L 757 112 L 772 112 L 787 112 L 802 112" />
+  </defs>
+
+  <g fill="currentColor"><rect x="16" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="31" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="46" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="61" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="76" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="91" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="106" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="121" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="136" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="151" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="166" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="181" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="196" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="211" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="226" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="241" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="256" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="271" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="286" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="301" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="316" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="331" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="346" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="361" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="376" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="391" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="406" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="421" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="436" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="451" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="466" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="481" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="496" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="511" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="526" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="541" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="556" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="571" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="586" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="601" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="616" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="631" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="646" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="661" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="676" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="691" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="706" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="721" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="736" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="751" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="766" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="781" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="796" y="16" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="16" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="31" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="46" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="61" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="76" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="91" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="106" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="121" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="136" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="151" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="166" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="181" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="196" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="211" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="226" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="241" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="256" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="271" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="286" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="301" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="316" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="331" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="346" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="361" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="376" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="391" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="406" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="421" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="436" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="451" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="466" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="481" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="496" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="511" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="526" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="541" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="556" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="571" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="586" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="601" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="616" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="631" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="646" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="661" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="676" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="691" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="706" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="721" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="736" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="751" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="766" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="781" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="796" y="31" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="16" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="31" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="46" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="61" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="76" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="91" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="106" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="121" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="136" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="151" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="166" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="181" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="196" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="211" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="226" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="241" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="256" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="271" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="286" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="301" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="316" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="331" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="346" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="361" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="376" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="391" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="406" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="421" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="436" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="451" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="466" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="481" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="496" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="511" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="526" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="541" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="556" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="571" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="586" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="601" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="616" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="631" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="646" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="661" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="676" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="691" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="706" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="721" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="736" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="751" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="766" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="781" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="796" y="46" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="16" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="31" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="46" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="61" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="76" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="91" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="106" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="121" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="136" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="151" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="166" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="181" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="196" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="211" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="226" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="241" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="256" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="271" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="286" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="301" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="316" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="331" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="346" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="361" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="376" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="391" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="406" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="421" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="436" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="451" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="466" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="481" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="496" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="511" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="526" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="541" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="556" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="571" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="586" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="601" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="616" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="631" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="646" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="661" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="676" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="691" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="706" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="721" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="736" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="751" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="766" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="781" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="796" y="61" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="16" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="31" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="46" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="61" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="76" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="91" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="106" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="121" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="136" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="151" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="166" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="181" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="196" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="211" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="226" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="241" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="256" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="271" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="286" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="301" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="316" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="331" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="346" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="361" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="376" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="391" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="406" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="421" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="436" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="451" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="466" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="481" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="496" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="511" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="526" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="541" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="556" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="571" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="586" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="601" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="616" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="631" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="646" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="661" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="676" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="691" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="706" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="721" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="736" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="751" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="766" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="781" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="796" y="76" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="16" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="31" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="46" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="61" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="76" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="91" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="106" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="121" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="136" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="151" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="166" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="181" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="196" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="211" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="226" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="241" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="256" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="271" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="286" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="301" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="316" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="331" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="346" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="361" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="376" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="391" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="406" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="421" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="436" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="451" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="466" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="481" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="496" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="511" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="526" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="541" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="556" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="571" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="586" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="601" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="616" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="631" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="646" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="661" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="676" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="691" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="706" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="721" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="736" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="751" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="766" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="781" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="796" y="91" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="16" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="31" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="46" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="61" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="76" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="91" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="106" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="121" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="136" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="151" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="166" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="181" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="196" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="211" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="226" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="241" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="256" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="271" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="286" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="301" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="316" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="331" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="346" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="361" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="376" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="391" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="406" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="421" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="436" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="451" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="466" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="481" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="496" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="511" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="526" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="541" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="556" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="571" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="586" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="601" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="616" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="631" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="646" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="661" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="676" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="691" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="706" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="721" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="736" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="751" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="766" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="781" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/>
+<rect x="796" y="106" width="12" height="12" rx="2" ry="2" opacity="0.15"/></g>
+  <g fill="currentColor">
+    <g transform="translate(16, 16)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="0.00s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="0.00s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(121, 16)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="0.21s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="0.21s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(226, 16)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="0.42s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="0.42s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(331, 16)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="0.63s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="0.63s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(436, 16)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="0.84s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="0.84s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(541, 16)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="1.05s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="1.05s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(646, 16)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="1.26s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="1.26s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(751, 16)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="1.47s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="1.47s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(751, 31)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="1.68s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="1.68s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(646, 31)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="1.89s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="1.89s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(541, 31)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="2.10s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="2.10s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(436, 31)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="2.31s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="2.31s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(331, 31)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="2.52s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="2.52s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(226, 31)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="2.73s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="2.73s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(121, 31)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="2.94s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="2.94s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(16, 31)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="3.15s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="3.15s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(106, 46)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="3.36s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="3.36s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(211, 46)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="3.57s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="3.57s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(316, 46)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="3.78s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="3.78s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(421, 46)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="3.99s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="3.99s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(526, 46)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="4.20s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="4.20s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(631, 46)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="4.41s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="4.41s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(736, 46)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="4.62s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="4.62s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(766, 61)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="4.83s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="4.83s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(661, 61)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="5.04s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="5.04s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(556, 61)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="5.25s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="5.25s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(451, 61)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="5.46s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="5.46s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(346, 61)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="5.67s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="5.67s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(241, 61)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="5.88s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="5.88s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(136, 61)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="6.09s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="6.09s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(31, 61)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="6.30s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="6.30s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(91, 76)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="6.51s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="6.51s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(196, 76)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="6.72s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="6.72s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(301, 76)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="6.93s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="6.93s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(406, 76)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="7.14s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="7.14s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(511, 76)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="7.35s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="7.35s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(616, 76)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="7.56s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="7.56s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(721, 76)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="7.77s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="7.77s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(781, 91)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="7.98s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="7.98s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(676, 91)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="8.19s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="8.19s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(571, 91)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="8.40s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="8.40s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(466, 91)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="8.61s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="8.61s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(361, 91)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="8.82s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="8.82s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(256, 91)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="9.03s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="9.03s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(151, 91)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="9.24s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="9.24s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(46, 91)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="9.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="9.45s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(76, 106)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="9.66s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="9.66s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(181, 106)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="9.87s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="9.87s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(286, 106)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="10.08s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="10.08s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(391, 106)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="10.29s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="10.29s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(496, 106)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="10.50s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="10.50s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(601, 106)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="10.71s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="10.71s" additive="sum" fill="freeze"/>
+      </use>
+    </g>
+
+    <g transform="translate(706, 106)">
+      <use href="#blockq" width="12" height="12">
+        <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="10.92s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.2s" begin="10.92s" additive="sum" fill="freeze"/>
+      </use>
+    </g></g>
+
+  <g id="marioRunner" transform="translate(0, -8.399999999999999) scale(1.5)" fill="currentColor">
+    <use href="#mario8">
+      <animateMotion dur="13.13s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#track"/>
+      </animateMotion>
+      <animateTransform attributeName="transform" type="scale" values="1;1.1;1" dur="0.18s" repeatCount="indefinite" additive="sum"/>
+    </use>
+  </g>
+</svg>
