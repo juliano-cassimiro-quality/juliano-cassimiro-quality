@@ -14,10 +14,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juliano-cassimiro-quality/juliano-cassimiro-quality/output/pacman-contribution-graph.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliano-cassimiro-quality/mario-contribuition-graph/output/mario-contribution-graph.svg">
-  <img alt="Mario Contribution Graph" src="https://raw.githubusercontent.com/juliano-cassimiro-quality/mario-contribuition-graph/output/mario-contribution-graph.svg">
-</picture>
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliano-cassimiro-quality/juliano-cassimiro-quality/output/mario-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliano-cassimiro-quality/juliano-cassimiro-quality/output/mario-contribution-graph.svg">
+  </picture>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff6ac1,100:001f3f"/>
