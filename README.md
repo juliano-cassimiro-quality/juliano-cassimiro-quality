@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=juliano-cassimiro-quality.juliano-cassimiro-quality&left_color=purple&right_color=blue" />
 </div>
