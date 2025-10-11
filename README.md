@@ -15,8 +15,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliano-cassimiro-quality/mario-contribution-graph/output/mario-contribution-graph.svg">
-  <img alt="Mario Contribution Graph" src="https://raw.githubusercontent.com/SEU_USUARIO/juliano-cassimiro-quality/output/mario-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliano-cassimiro-quality/mario-contribuition-graph/output/mario-contribution-graph.svg">
+  <img alt="Mario Contribution Graph" src="https://raw.githubusercontent.com/juliano-cassimiro-quality/mario-contribuition-graph/output/mario-contribution-graph.svg">
 </picture>
 
 
