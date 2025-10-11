@@ -1,27 +1,32 @@
 name: Generate mario animation
 
 on:
-  schedule: # executa a cada 12 horas
+  schedule:
     - cron: "* */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: generate mario-contribution-graph.svg
-        uses: juliano-cassimiro-quality/mario-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
+      - name: Checkout repository with README
+        uses: actions/checkout@v4
+
+      - name: Clone mario generator
+        run: |
+          git clone https://github.com/juliano-cassimiro-quality/mario-contribution-graph.git generator
+          cd generator
+          npm install || echo "sem dependências"
+          npm run build
+          mkdir -p ../dist
+          cp dist/mario-contribution-graph.svg ../dist/
 
       - name: push mario-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
